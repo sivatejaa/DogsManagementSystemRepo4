@@ -1,0 +1,6 @@
+com\tejaClasses\DMS\DogManagementSystemApplication.class
+com\tejaClasses\DMS\Models\Trainer.class
+com\tejaClasses\DMS\DMSrepository\DogRepository.class
+com\tejaClasses\DMS\DMSrepository\TrainerRepository.class
+com\tejaClasses\DMS\Controller\DogController.class
+com\tejaClasses\DMS\Models\Dog.class
